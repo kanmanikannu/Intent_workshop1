@@ -1,6 +1,12 @@
 # Program
 
-## activity.xml
+/*
+Program to print the contact name and phone number using content providers.
+Developed by: Kanmani U
+Registeration Number :212221040070
+*/
+
+## Activity.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
