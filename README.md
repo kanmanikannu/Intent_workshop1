@@ -1,10 +1,11 @@
 # Program
-
+```
 /*
-Program to print the contact name and phone number using content providers.
+Program to develop an android application to pass the data between the activities using Intent.
 Developed by: Kanmani U
 Registeration Number :212221040070
 */
+```
 
 ## Activity.xml
 ```
